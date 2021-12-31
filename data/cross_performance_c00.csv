@@ -1,0 +1,6 @@
+,Modelo,MAE,MAPE,RMSE,time
+0,DecisionTreeRegressor,11123.91,0.3857,15360.1,0.8
+1,RandomForestRegressor,11124.34,0.3857,15360.06,33.64
+2,XGBRegressor,11148.6,0.3868,15382.06,15.74
+3,LinearRegression,11970.39,0.4198,16153.8,0.44
+4,Baseline,13402.185,0.494,17641.151,0.0
